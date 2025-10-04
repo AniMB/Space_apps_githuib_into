@@ -1,10 +1,7 @@
-#bin
+#!/usr/bin/env python3
 
-
-
-def not_main():
-
-
+import os
+import pandas as pd
 
 if __name__ == "__main__":
-    not_main()
+    print("Main.py is running...")
